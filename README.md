@@ -1,5 +1,4 @@
 
-````md
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/deepak-5656/deepak-5656/main/banner.svg" width="100%" />
@@ -18,7 +17,7 @@
 
 ---
 
-```python
+python
 class Deep:
     name = "Deepak R"
     role = "AI & Full Stack Developer"
@@ -40,7 +39,7 @@ class Deep:
 
     currently_learning = ["LLMs", "MLOps", "Advanced DSA"]
     goal = "Build impactful AI-powered systems 🚀"
-````
+
 
 ---
 
