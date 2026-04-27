@@ -17,7 +17,7 @@
 
 ---
 
-python
+```python
 class Deep:
     name = "Deepak R"
     role = "AI & Full Stack Developer"
@@ -40,7 +40,7 @@ class Deep:
     currently_learning = ["LLMs", "MLOps", "Advanced DSA"]
     goal = "Build impactful AI-powered systems 🚀"
 
-
+```
 ---
 
 <div align="center">
