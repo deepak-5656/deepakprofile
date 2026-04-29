@@ -20,7 +20,7 @@
 - 🌱 I’m constantly learning more about the **MERN stack**, **TypeScript**, and beginner **Data Science / Machine Learning**.
 - 👯 I’m looking to collaborate on **Open Source projects**, innovative web apps, and AI integrations.
 - 💬 Ask me about **JavaScript, React, Node.js, MongoDB, and basic ML algorithms**.
-- 📫 How to reach me: **[Add your email here]**
+- 📫 How to reach me: **deepak664337@gmail.com**
 
 ## 🛠️ Tech Stack & Tools
 
@@ -55,5 +55,5 @@
 - ✈️ **[Wanderease](https://github.com/deepak-5656/wanderease)** - A travel listing platform featuring user authentication, a reviews system, and a responsive UI. Built using **Node.js, Express, MongoDB, and EJS**.
 - 🤖 **[Ecommerce Chatbot](https://github.com/deepak-5656/Ecommercechatbot)** - An E-commerce chatbot built with **TypeScript**.
 
-### 🧠 Machine Learning (Beginner)
-- 📊 **[Your ML Project Name Here](https://github.com/deepak-5656/)** - An introductory machine learning project exploring data analysis and model training using **Python, Pandas, and Scikit-Learn** in a Jupyter Notebook. *(Don't forget to update this link!)*
+### 🧠 Machine Learning & Data
+- 🌍 **[Geospatial Query Engine](https://github.com/deepak-5656/Geospatial-Query-Engine)** - A Python-based geospatial query system that implements efficient geospatial operations, data analysis, and mapping.
